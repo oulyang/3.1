@@ -1,0 +1,10 @@
+file:C:\bbb\1.19\1.19.1.c line:39 date:Jan 20 2021 time:13:44:16 i=0
+file:C:\bbb\1.19\1.19.1.c line:39 date:Jan 20 2021 time:13:44:16 i=1
+file:C:\bbb\1.19\1.19.1.c line:39 date:Jan 20 2021 time:13:44:16 i=2
+file:C:\bbb\1.19\1.19.1.c line:39 date:Jan 20 2021 time:13:44:16 i=3
+file:C:\bbb\1.19\1.19.1.c line:39 date:Jan 20 2021 time:13:44:16 i=4
+file:C:\bbb\1.19\1.19.1.c line:39 date:Jan 20 2021 time:13:44:16 i=5
+file:C:\bbb\1.19\1.19.1.c line:39 date:Jan 20 2021 time:13:44:16 i=6
+file:C:\bbb\1.19\1.19.1.c line:39 date:Jan 20 2021 time:13:44:16 i=7
+file:C:\bbb\1.19\1.19.1.c line:39 date:Jan 20 2021 time:13:44:16 i=8
+file:C:\bbb\1.19\1.19.1.c line:39 date:Jan 20 2021 time:13:44:16 i=9
